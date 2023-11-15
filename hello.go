@@ -8,6 +8,6 @@ import (
 //go:embed xml/*
 var Content embed.FS
 
-func main() {
+func Aa() {
 	fmt.Println("Hello, world.")
 }
